@@ -1,0 +1,32 @@
+body{
+    background-image: url(./img/black-low-poly-geometric-background-vector.jpg);  
+    background-size: 300px 700px;
+    
+}
+
+#logo-principal{
+    width: 200px;
+    border-radius: 200px;
+}
+
+#container-logo{
+    padding: 20px;    
+    background-size: 200px 600px;    
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Arial', sans-serif; 
+    color: #33475b;
+    padding: 10px; 
+}
+
+.photos{
+    width: 200px;
+    height: 150px;
+    display: block;
+
+}
+
+#principal{
+    text-align: center;
+}
